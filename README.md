@@ -1,4 +1,4 @@
-# JPMorgan Chase Software Engineering Program - Task 2
+# Task 2 of the JPMorgan Chase Software Engineering program.
 
 This task involved developing a React + TypeScript application with a Node.js backend server to visualize real-time stock data. The application features:
 
